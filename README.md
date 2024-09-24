@@ -1,10 +1,57 @@
-- 👋 Hi, I’m @Ifortec
-- 👀 I’m interested in ...exploring technology environment 
-- 🌱 I’m currently learning ...programming 
-- 💞️ I’m looking to collaborate on ...building a website
-- 📫 How to reach me ...WhatsApp 09071636467
+_Hello! I'm Ifortec_
 
-<!---
-Ifortec/Ifortec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+_About Me_
+Software Developer | Front-end Enthusiast | AI Explorer | Tech Enthusiast | Public Speaker | Tech Volunteer
+
+
+_Current Focus_
+
+- Expanding Front-end Development skills (HTML, CSS, JavaScript)
+- Exploring Artificial Intelligence (AI) and Machine Learning (ML) concepts
+- Building projects to enhance problem-solving and coding abilities
+- Advocating for tech awareness through public speaking (Tech Movement)
+- Establishing Ifotech Brand: Guiding tech career decisions and niche specialization.
+
+
+_Speaking Engagements_
+
+- Master of Ceremony, IEEE Conference Imo State, Futo, 2024.
+- Guest speaker, Tefem Women Empowerment Graduation, Owerri, 2024.
+
+
+_Tech Volunteering_- 
+
+- ITSA Owerri ( Team lead, Protocols/ Ushering team)
+- IEEE Owerri ( Event finance team)
+
+
+_Collaboration Interests_
+
+- Front-end development (web applications, responsive design)
+- AI-powered solutions (chatbots, predictive modeling)
+- Open-source initiatives
+- Tech community development, management and outreach
+
+
+_What I'm Learning_
+
+- Programming languages: JavaScript, Python
+- Front-end frameworks: React, Angular
+- AI/ML libraries: TensorFlow, PyTorch
+- Version control: Git, GitHub
+
+
+_Ifotech Brand_
+
+- Empowering individuals to make informed tech career decisions
+- Guiding niche specialization in tech
+- Sharing knowledge through workshops, talks, and online content
+
+
+_Let's Connect_
+
+- Email: mailto:iwuprecious317@gmail.com
+- LinkedIn: https://www.linkedin.com/in/preshy-iwu-5a049529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Twitter: https://x.com/precious_i51345?t=ROC__VzgVfcDBR-bOuUzBw&s=09
+- Let's Collaborate on a project!
