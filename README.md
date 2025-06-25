@@ -1,4 +1,4 @@
-_Hello! I'm Ifortec_
+_Hello! I'm IWU PRECIOUS IFEOMA_
 
 
 _About Me_
@@ -8,7 +8,7 @@ Software Developer | Front-end Enthusiast | AI Explorer | Tech Enthusiast | Publ
 _Current Focus_
 
 - Expanding Front-end Development skills (HTML, CSS, JavaScript)
-- Exploring Artificial Intelligence (AI) and Machine Learning (ML) concepts
+- AI prompt
 - Building projects to enhance problem-solving and coding abilities
 - Advocating for tech awareness through public speaking (Tech Movement)
 - Establishing Ifotech Brand: Guiding tech career decisions and niche specialization.
@@ -36,9 +36,8 @@ _Collaboration Interests_
 
 _What I'm Learning_
 
-- Programming languages: JavaScript, Python
+- Programming languages: Html, css, JavaScript
 - Front-end frameworks: React, Angular
-- AI/ML libraries: TensorFlow, PyTorch
 - Version control: Git, GitHub
 
 
